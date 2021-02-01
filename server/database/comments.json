@@ -1,0 +1,311 @@
+[{
+  "_id": {
+    "$oid": "5fd700b7ad356008d07ecd31"
+  },
+  "comment": "Dây sạc của bạn lỗi mua hoặc mượn dây khác là đc",
+  "id": 51,
+  "author": {
+    "name": "mlem",
+    "password": "$2b$10$O4ah0tesU5tl5ci2pa0oTO.JBDhlinOMrSed23RnBROTl0cMhf3FS",
+    "status": "active",
+    "cover_photo": null,
+    "avatar": null,
+    "birthday": null,
+    "address": null,
+    "city": null,
+    "country": null,
+    "_id": {
+      "$oid": "5fd6f730c928be2b0c677608"
+    },
+    "phone": "0984552773",
+    "created_at": {
+      "$date": "2020-12-14T05:25:04.934Z"
+    },
+    "id": 38,
+    "__v": 0
+  },
+  "created_at": {
+    "$date": "2020-12-14T06:05:43.038Z"
+  },
+  "comment_id": 47,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd700e1ad356008d07ecd32"
+  },
+  "comment": "bạn ơi, nhìn sao để biết là dây sạc hết lỗi vậy, bạn chỉ mình với",
+  "id": 51,
+  "author": {
+    "name": "Phương Trung Đức",
+    "password": "$2b$10$U6npA399PIbsvVwnIfYslukMeNnswX0mr1EulFp.co6hqDag/0Yfm",
+    "status": "active",
+    "cover_photo": null,
+    "avatar": null,
+    "birthday": null,
+    "address": null,
+    "city": null,
+    "country": null,
+    "_id": {
+      "$oid": "5fd6f73fc928be2b0c67760b"
+    },
+    "phone": "0984552770",
+    "created_at": {
+      "$date": "2020-12-14T05:25:19.978Z"
+    },
+    "id": 41,
+    "__v": 0
+  },
+  "created_at": {
+    "$date": "2020-12-14T06:06:25.367Z"
+  },
+  "comment_id": 48,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd700fead356008d07ecd33"
+  },
+  "comment": "đi mượn sạc người khác thử",
+  "id": 51,
+  "author": {
+    "name": "Phương Trung Đức",
+    "password": "$2b$10$U6npA399PIbsvVwnIfYslukMeNnswX0mr1EulFp.co6hqDag/0Yfm",
+    "status": "active",
+    "cover_photo": null,
+    "avatar": null,
+    "birthday": null,
+    "address": null,
+    "city": null,
+    "country": null,
+    "_id": {
+      "$oid": "5fd6f73fc928be2b0c67760b"
+    },
+    "phone": "0984552770",
+    "created_at": {
+      "$date": "2020-12-14T05:25:19.978Z"
+    },
+    "id": 41,
+    "__v": 0
+  },
+  "created_at": {
+    "$date": "2020-12-14T06:06:54.608Z"
+  },
+  "comment_id": 49,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd70109ad356008d07ecd34"
+  },
+  "comment": "hoặc xem dây bị đứt lõi hay ko dùng sạc apple lâu dễ bị đứt",
+  "id": 51,
+  "author": {
+    "name": "Phương Trung Đức",
+    "password": "$2b$10$U6npA399PIbsvVwnIfYslukMeNnswX0mr1EulFp.co6hqDag/0Yfm",
+    "status": "active",
+    "cover_photo": null,
+    "avatar": null,
+    "birthday": null,
+    "address": null,
+    "city": null,
+    "country": null,
+    "_id": {
+      "$oid": "5fd6f73fc928be2b0c67760b"
+    },
+    "phone": "0984552770",
+    "created_at": {
+      "$date": "2020-12-14T05:25:19.978Z"
+    },
+    "id": 41,
+    "__v": 0
+  },
+  "created_at": {
+    "$date": "2020-12-14T06:07:05.232Z"
+  },
+  "comment_id": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe9ab290e8be105a48e9326"
+  },
+  "comment": "hoặc xem dây bị đứt lõi hay ko dùng sạc apple lâu dễ bị đứt",
+  "id": 51,
+  "author": {
+    "name": "Phương Trung Đức",
+    "password": "$2b$10$U6npA399PIbsvVwnIfYslukMeNnswX0mr1EulFp.co6hqDag/0Yfm",
+    "status": "active",
+    "cover_photo": null,
+    "avatar": null,
+    "birthday": null,
+    "address": null,
+    "city": null,
+    "country": null,
+    "_id": {
+      "$oid": "5fd6f73fc928be2b0c67760b"
+    },
+    "phone": "0984552770",
+    "created_at": {
+      "$date": "2020-12-14T05:25:19.978Z"
+    },
+    "id": 41,
+    "__v": 0
+  },
+  "created_at": {
+    "$date": "2020-12-28T09:53:45.097Z"
+  },
+  "comment_id": 51,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fee667ee096c410fc6bfc3f"
+  },
+  "comment": "sssssssss",
+  "id": 51,
+  "author": {
+    "name": "Phạm Đức",
+    "password": "$2b$10$jCBArj2ATvJkWGhtKiwgJ.laK8Wkk3WDgxPgpZidewFWk3VsuajZe",
+    "status": "active",
+    "cover_photo": null,
+    "avatar": "data/image_picker1865590650383651782-1609262867420.jpg",
+    "birthday": null,
+    "address": "asjdhkasjhdlaskjdhlajshdlkjasdlajshldk",
+    "city": null,
+    "country": null,
+    "_id": {
+      "$oid": "5fd6f715c928be2b0c677607"
+    },
+    "phone": "0984552774",
+    "created_at": {
+      "$date": "2020-12-14T05:24:37.273Z"
+    },
+    "id": 37,
+    "__v": 0
+  },
+  "created_at": {
+    "$date": "2021-01-01T00:02:07.088Z"
+  },
+  "comment_id": 52,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fee670ee096c410fc6bfc40"
+  },
+  "comment": "sssssssssssw",
+  "id": 51,
+  "author": {
+    "name": "Phạm Đức",
+    "password": "$2b$10$jCBArj2ATvJkWGhtKiwgJ.laK8Wkk3WDgxPgpZidewFWk3VsuajZe",
+    "status": "active",
+    "cover_photo": null,
+    "avatar": "data/image_picker1865590650383651782-1609262867420.jpg",
+    "birthday": null,
+    "address": "asjdhkasjhdlaskjdhlajshdlkjasdlajshldk",
+    "city": null,
+    "country": null,
+    "_id": {
+      "$oid": "5fd6f715c928be2b0c677607"
+    },
+    "phone": "0984552774",
+    "created_at": {
+      "$date": "2020-12-14T05:24:37.273Z"
+    },
+    "id": 37,
+    "__v": 0
+  },
+  "created_at": {
+    "$date": "2021-01-01T00:04:30.203Z"
+  },
+  "comment_id": 53,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fee82d4e096c410fc6bfc42"
+  },
+  "comment": "32222",
+  "id": 51,
+  "author": {
+    "name": "Phạm Đức",
+    "password": "$2b$10$jCBArj2ATvJkWGhtKiwgJ.laK8Wkk3WDgxPgpZidewFWk3VsuajZe",
+    "status": "active",
+    "cover_photo": null,
+    "avatar": "data/image_picker1865590650383651782-1609262867420.jpg",
+    "birthday": null,
+    "address": "asjdhkasjhdlaskjdhlajshdlkjasdlajshldk",
+    "city": null,
+    "country": null,
+    "_id": {
+      "$oid": "5fd6f715c928be2b0c677607"
+    },
+    "phone": "0984552774",
+    "created_at": {
+      "$date": "2020-12-14T05:24:37.273Z"
+    },
+    "id": 37,
+    "__v": 0
+  },
+  "created_at": {
+    "$date": "2021-01-01T02:03:00.400Z"
+  },
+  "comment_id": 54,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fee915f52072333500bd3b2"
+  },
+  "comment": "dfffffffffffffffffffffffff",
+  "id": 51,
+  "author": {
+    "name": "Phạm Đức",
+    "password": "$2b$10$jCBArj2ATvJkWGhtKiwgJ.laK8Wkk3WDgxPgpZidewFWk3VsuajZe",
+    "status": "active",
+    "cover_photo": null,
+    "avatar": "data/image_picker1865590650383651782-1609262867420.jpg",
+    "birthday": null,
+    "address": "asjdhkasjhdlaskjdhlajshdlkjasdlajshldk",
+    "city": null,
+    "country": null,
+    "_id": {
+      "$oid": "5fd6f715c928be2b0c677607"
+    },
+    "phone": "0984552774",
+    "created_at": {
+      "$date": "2020-12-14T05:24:37.273Z"
+    },
+    "id": 37,
+    "__v": 0
+  },
+  "created_at": {
+    "$date": "2021-01-01T03:05:03.275Z"
+  },
+  "comment_id": 55,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fef36a654dd195e5894569c"
+  },
+  "comment": "hoặc xem dây bị đứt lõi hay ko dùng sạc apple lâu dễ bị đứt",
+  "id": 51,
+  "author": {
+    "name": "Phương Trung Đức",
+    "password": "$2b$10$U6npA399PIbsvVwnIfYslukMeNnswX0mr1EulFp.co6hqDag/0Yfm",
+    "status": "active",
+    "cover_photo": null,
+    "avatar": null,
+    "birthday": null,
+    "address": null,
+    "city": null,
+    "country": null,
+    "_id": {
+      "$oid": "5fd6f73fc928be2b0c67760b"
+    },
+    "phone": "0984552770",
+    "created_at": {
+      "$date": "2020-12-14T05:25:19.978Z"
+    },
+    "id": 41,
+    "__v": 0
+  },
+  "created_at": {
+    "$date": "2021-01-01T14:50:14.364Z"
+  },
+  "comment_id": 56,
+  "__v": 0
+}]

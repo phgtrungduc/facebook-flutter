@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "5fd705ce9cc2ad069cce996f"
+  },
+  "like_comment": 1,
+  "from_friends": 1,
+  "requested_friend": 1,
+  "suggested_friend": 1,
+  "birthday": 1,
+  "video": 1,
+  "report": 1,
+  "sound_on": 1,
+  "notification_on": 1,
+  "vibrant_on": 1,
+  "let_on": 1,
+  "user_id": 37,
+  "created_at": {
+    "$date": "2020-12-14T06:27:26.428Z"
+  },
+  "setting_id": 11,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff084b9caf18d3f64b66803"
+  },
+  "like_comment": 1,
+  "from_friends": 1,
+  "requested_friend": 1,
+  "suggested_friend": 1,
+  "birthday": 1,
+  "video": 1,
+  "report": 1,
+  "sound_on": 1,
+  "notification_on": 1,
+  "vibrant_on": 1,
+  "let_on": 1,
+  "user_id": 76,
+  "created_at": {
+    "$date": "2021-01-02T14:35:37.695Z"
+  },
+  "setting_id": 13,
+  "__v": 0
+}]

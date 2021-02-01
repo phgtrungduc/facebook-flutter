@@ -1,0 +1,166 @@
+[{
+  "_id": {
+    "$oid": "5ff1d7f498bcda4495c0689a"
+  },
+  "user_id": 87,
+  "keyword": "anh",
+  "created_at": {
+    "$date": "2021-01-03T14:43:00.751Z"
+  },
+  "search_id": 434,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1d81998bcda4495c0689e"
+  },
+  "user_id": 88,
+  "keyword": "hằng",
+  "created_at": {
+    "$date": "2021-01-03T14:48:25.236Z"
+  },
+  "search_id": 435,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1dbe1fa2ea430448a2ec5"
+  },
+  "user_id": 88,
+  "keyword": "Đức",
+  "created_at": {
+    "$date": "2021-01-03T18:19:29.801Z"
+  },
+  "search_id": 436,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1de2cfa2ea430448a2ecd"
+  },
+  "user_id": 87,
+  "keyword": "b",
+  "created_at": {
+    "$date": "2021-01-03T15:09:38.242Z"
+  },
+  "search_id": 437,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1de4afa2ea430448a2ecf"
+  },
+  "user_id": 87,
+  "keyword": "v",
+  "created_at": {
+    "$date": "2021-01-03T15:19:14.475Z"
+  },
+  "search_id": 438,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1eece7174431d8432b6ad"
+  },
+  "user_id": 96,
+  "keyword": "vuong",
+  "created_at": {
+    "$date": "2021-01-03T16:20:30.338Z"
+  },
+  "search_id": 439,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1eed37174431d8432b6ae"
+  },
+  "user_id": 96,
+  "keyword": "V",
+  "created_at": {
+    "$date": "2021-01-03T16:20:35.423Z"
+  },
+  "search_id": 440,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1eefb7174431d8432b6b0"
+  },
+  "user_id": 95,
+  "keyword": "v",
+  "created_at": {
+    "$date": "2021-01-03T16:21:15.571Z"
+  },
+  "search_id": 441,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1ef5c7174431d8432b6b6"
+  },
+  "user_id": 96,
+  "keyword": "d",
+  "created_at": {
+    "$date": "2021-01-03T16:22:52.858Z"
+  },
+  "search_id": 442,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1f0b355dbc05980c0ac17"
+  },
+  "user_id": 95,
+  "keyword": "ng",
+  "created_at": {
+    "$date": "2021-01-03T16:42:08.820Z"
+  },
+  "search_id": 443,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1f23503d9e71fc0ab6f84"
+  },
+  "user_id": 95,
+  "keyword": "d",
+  "created_at": {
+    "$date": "2021-01-03T16:35:01.223Z"
+  },
+  "search_id": 444,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1f3ec352b143c70332b82"
+  },
+  "user_id": 95,
+  "keyword": "vuong",
+  "created_at": {
+    "$date": "2021-01-03T16:42:20.951Z"
+  },
+  "search_id": 445,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1f3f4352b143c70332b83"
+  },
+  "user_id": 95,
+  "keyword": "vu",
+  "created_at": {
+    "$date": "2021-01-03T16:42:28.041Z"
+  },
+  "search_id": 446,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1f3fc352b143c70332b84"
+  },
+  "user_id": 95,
+  "keyword": "V",
+  "created_at": {
+    "$date": "2021-01-03T16:42:36.354Z"
+  },
+  "search_id": 447,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1f6f28b88f55970e42cd7"
+  },
+  "user_id": 101,
+  "keyword": "đ",
+  "created_at": {
+    "$date": "2021-01-03T16:55:24.517Z"
+  },
+  "search_id": 448,
+  "__v": 0
+}]

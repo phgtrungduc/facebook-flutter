@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "5ff1d81598bcda4495c0689c"
+  },
+  "info": {
+    "user_id": 88,
+    "username": "Anh Anh Ngọc",
+    "avatar": "data/116669302_2703910609876821_2658808270718487986_o-1609680927119.jpg",
+    "same_friends": 0,
+    "created": null
+  },
+  "user_id": 87,
+  "created_at": {
+    "$date": "2021-01-03T14:43:33.178Z"
+  },
+  "friend_id": 130,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1d81598bcda4495c0689d"
+  },
+  "info": {
+    "user_id": 87,
+    "username": "Bùi Thị Hằng",
+    "avatar": "data/121017468_1356738251338621_2819887627103286928_o-1609680871005.jpg",
+    "same_friends": 0,
+    "created": null
+  },
+  "user_id": 88,
+  "created_at": {
+    "$date": "2021-01-03T14:43:33.541Z"
+  },
+  "friend_id": 131,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1e0c2fa2ea430448a2ed7"
+  },
+  "info": {
+    "user_id": 83,
+    "username": "Quang Vượng",
+    "avatar": "data/122961018_2745912529011217_7054650373304638647_n-1609680578154.jpg",
+    "same_friends": 0,
+    "created": null
+  },
+  "user_id": 87,
+  "created_at": {
+    "$date": "2021-01-03T15:20:34.997Z"
+  },
+  "friend_id": 132,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1e0c3fa2ea430448a2ed8"
+  },
+  "info": {
+    "user_id": 87,
+    "username": "Bùi Thị Hằng",
+    "avatar": "data/121017468_1356738251338621_2819887627103286928_o-1609680871005.jpg",
+    "same_friends": 0,
+    "created": null
+  },
+  "user_id": 83,
+  "created_at": {
+    "$date": "2021-01-03T15:20:35.593Z"
+  },
+  "friend_id": 133,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1e1a48b88f55970e42cd2"
+  },
+  "info": {
+    "user_id": 100,
+    "username": "Thu Hiền",
+    "avatar": "data/55244575_1517014055099270_2146321313885585408_n-1609681666182.jpg",
+    "same_friends": 0,
+    "created": null
+  },
+  "user_id": 102,
+  "created_at": {
+    "$date": "2021-01-03T15:24:20.712Z"
+  },
+  "friend_id": 136,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1e1a58b88f55970e42cd3"
+  },
+  "info": {
+    "user_id": 102,
+    "username": "Đặng Anh Tú",
+    "avatar": "data/118778920_705734639978590_3140923112016471391_n-1609681814110.jpg",
+    "same_friends": 0,
+    "created": null
+  },
+  "user_id": 100,
+  "created_at": {
+    "$date": "2021-01-03T15:24:21.813Z"
+  },
+  "friend_id": 137,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1ef2e7174431d8432b6b2"
+  },
+  "info": {
+    "user_id": 83,
+    "username": "Quang Vượng",
+    "avatar": "data/122961018_2745912529011217_7054650373304638647_n-1609680578154.jpg",
+    "same_friends": 0,
+    "created": null
+  },
+  "user_id": 95,
+  "created_at": {
+    "$date": "2021-01-03T16:22:06.360Z"
+  },
+  "friend_id": 138,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1ef2e7174431d8432b6b3"
+  },
+  "info": {
+    "user_id": 95,
+    "username": "Duyên Phạm",
+    "avatar": "data/84734279_2508385072768619_3413828774968426496_n-1609681389063.jpg",
+    "same_friends": 0,
+    "created": null
+  },
+  "user_id": 83,
+  "created_at": {
+    "$date": "2021-01-03T16:22:06.866Z"
+  },
+  "friend_id": 139,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1ef307174431d8432b6b4"
+  },
+  "info": {
+    "user_id": 83,
+    "username": "Quang Vượng",
+    "avatar": "data/122961018_2745912529011217_7054650373304638647_n-1609680578154.jpg",
+    "same_friends": 0,
+    "created": null
+  },
+  "user_id": 96,
+  "created_at": {
+    "$date": "2021-01-03T16:22:08.339Z"
+  },
+  "friend_id": 140,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff1ef307174431d8432b6b5"
+  },
+  "info": {
+    "user_id": 96,
+    "username": "Dũng Anh Lê",
+    "avatar": "data/131443968_1915920641897834_8299880717743209083_n-1609681442181.jpg",
+    "same_friends": 0,
+    "created": null
+  },
+  "user_id": 83,
+  "created_at": {
+    "$date": "2021-01-03T16:22:08.835Z"
+  },
+  "friend_id": 141,
+  "__v": 0
+}]

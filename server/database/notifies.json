@@ -1,0 +1,372 @@
+[{
+  "_id": {
+    "$oid": "5ff1e8cd6c23c75c84776f8c"
+  },
+  "info_user": {
+    "user_id": 87,
+    "username": "Bùi Thị Hằng",
+    "avatar": "data/121017468_1356738251338621_2819887627103286928_o-1609680871005.jpg"
+  },
+  "type": "like",
+  "user_id": 88,
+  "post_id": 118,
+  "created_at": {
+    "$date": "2021-01-03T15:54:53.339Z"
+  },
+  "notify_id": 14,
+  "__v": 0,
+  "seen": false
+},{
+  "_id": {
+    "$oid": "5ff1e8d06c23c75c84776f8f"
+  },
+  "info_user": {
+    "user_id": 87,
+    "username": "Bùi Thị Hằng",
+    "avatar": "data/121017468_1356738251338621_2819887627103286928_o-1609680871005.jpg"
+  },
+  "type": "like",
+  "user_id": 88,
+  "post_id": 117,
+  "created_at": {
+    "$date": "2021-01-03T15:54:56.438Z"
+  },
+  "notify_id": 15,
+  "__v": 0,
+  "seen": false
+},{
+  "_id": {
+    "$oid": "5ff26be8cf704f29fc17497a"
+  },
+  "info_user": {
+    "user_id": 99,
+    "username": "Vũ Chính",
+    "avatar": "data/126858156_1304143603269537_1953462057992960710_n-1609681605677.jpg"
+  },
+  "post_id": 112,
+  "type": "like",
+  "user_id": 87,
+  "created_at": {
+    "$date": "2021-01-04T01:14:16.045Z"
+  },
+  "notify_id": 18,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff280b9ce2c2f3530fb16a3"
+  },
+  "info_user": {
+    "user_id": 95,
+    "username": "Duyên Phạm",
+    "avatar": "data/84734279_2508385072768619_3413828774968426496_n-1609681389063.jpg"
+  },
+  "post_id": null,
+  "type": "request",
+  "user_id": 84,
+  "created_at": {
+    "$date": "2021-01-04T02:43:05.631Z"
+  },
+  "notify_id": 19,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff290cd885e651ae87781c5"
+  },
+  "info_user": {
+    "user_id": 83,
+    "username": "Quang Vượng",
+    "avatar": "data/122961018_2745912529011217_7054650373304638647_n-1609680578154.jpg"
+  },
+  "post_id": 122,
+  "type": "like",
+  "user_id": 95,
+  "created_at": {
+    "$date": "2021-01-04T03:51:41.700Z"
+  },
+  "notify_id": 21,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff290cc885e651ae87781c3"
+  },
+  "info_user": {
+    "user_id": 83,
+    "username": "Quang Vượng",
+    "avatar": "data/122961018_2745912529011217_7054650373304638647_n-1609680578154.jpg"
+  },
+  "post_id": 122,
+  "type": "like",
+  "user_id": 95,
+  "created_at": {
+    "$date": "2021-01-04T03:51:41.177Z"
+  },
+  "notify_id": 20,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff290cd885e651ae87781c4"
+  },
+  "info_user": {
+    "user_id": 83,
+    "username": "Quang Vượng",
+    "avatar": "data/122961018_2745912529011217_7054650373304638647_n-1609680578154.jpg"
+  },
+  "post_id": 122,
+  "type": "like",
+  "user_id": 95,
+  "created_at": {
+    "$date": "2021-01-04T03:51:41.698Z"
+  },
+  "notify_id": 22,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff290ce885e651ae87781ca"
+  },
+  "info_user": {
+    "user_id": 83,
+    "username": "Quang Vượng",
+    "avatar": "data/122961018_2745912529011217_7054650373304638647_n-1609680578154.jpg"
+  },
+  "post_id": 122,
+  "type": "like",
+  "user_id": 95,
+  "created_at": {
+    "$date": "2021-01-04T03:51:42.404Z"
+  },
+  "notify_id": 23,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff290d3885e651ae87781cd"
+  },
+  "info_user": {
+    "user_id": 83,
+    "username": "Quang Vượng",
+    "avatar": "data/122961018_2745912529011217_7054650373304638647_n-1609680578154.jpg"
+  },
+  "post_id": 122,
+  "type": "like",
+  "user_id": 95,
+  "created_at": {
+    "$date": "2021-01-04T03:51:47.066Z"
+  },
+  "notify_id": 24,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff29afa8ca59e3f7881d30e"
+  },
+  "info_user": {
+    "user_id": 102,
+    "username": "Đặng Anh Tú",
+    "avatar": "data/118778920_705734639978590_3140923112016471391_n-1609681814110.jpg"
+  },
+  "post_id": null,
+  "type": "request",
+  "seen": true,
+  "user_id": 101,
+  "created_at": {
+    "$date": "2021-01-04T04:35:06.368Z"
+  },
+  "notify_id": 25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff29e448ca59e3f7881d312"
+  },
+  "info_user": {
+    "user_id": 102,
+    "username": "Đặng Anh Tú",
+    "avatar": "data/118778920_705734639978590_3140923112016471391_n-1609681814110.jpg"
+  },
+  "post_id": null,
+  "type": "request",
+  "seen": false,
+  "user_id": 101,
+  "created_at": {
+    "$date": "2021-01-04T04:49:08.409Z"
+  },
+  "notify_id": 26,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff29e788ca59e3f7881d314"
+  },
+  "info_user": {
+    "user_id": 100,
+    "username": "Thu Hiền",
+    "avatar": "data/55244575_1517014055099270_2146321313885585408_n-1609681666182.jpg"
+  },
+  "post_id": null,
+  "type": "request",
+  "seen": false,
+  "user_id": 101,
+  "created_at": {
+    "$date": "2021-01-04T04:50:00.928Z"
+  },
+  "notify_id": 27,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff29e8e8ca59e3f7881d316"
+  },
+  "info_user": {
+    "user_id": 99,
+    "username": "Vũ Chính",
+    "avatar": "data/126858156_1304143603269537_1953462057992960710_n-1609681605677.jpg"
+  },
+  "post_id": null,
+  "type": "request",
+  "seen": false,
+  "user_id": 101,
+  "created_at": {
+    "$date": "2021-01-04T04:50:22.179Z"
+  },
+  "notify_id": 28,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff29ea48ca59e3f7881d318"
+  },
+  "info_user": {
+    "user_id": 97,
+    "username": "Đức Nguyễn",
+    "avatar": "data/133832329_3433197446905361_6206400152779475441_o-1609681534939.jpg"
+  },
+  "post_id": null,
+  "type": "request",
+  "seen": false,
+  "user_id": 101,
+  "created_at": {
+    "$date": "2021-01-04T04:50:44.580Z"
+  },
+  "notify_id": 29,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff29ecd8ca59e3f7881d31a"
+  },
+  "info_user": {
+    "user_id": 96,
+    "username": "Dũng Anh Lê",
+    "avatar": "data/131443968_1915920641897834_8299880717743209083_n-1609681442181.jpg"
+  },
+  "post_id": null,
+  "type": "request",
+  "seen": false,
+  "user_id": 101,
+  "created_at": {
+    "$date": "2021-01-04T04:51:25.017Z"
+  },
+  "notify_id": 30,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff29ee08ca59e3f7881d31c"
+  },
+  "info_user": {
+    "user_id": 95,
+    "username": "Duyên Phạm",
+    "avatar": "data/84734279_2508385072768619_3413828774968426496_n-1609681389063.jpg"
+  },
+  "post_id": null,
+  "type": "request",
+  "seen": false,
+  "user_id": 101,
+  "created_at": {
+    "$date": "2021-01-04T04:51:44.135Z"
+  },
+  "notify_id": 31,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff29ef28ca59e3f7881d31e"
+  },
+  "info_user": {
+    "user_id": 94,
+    "username": "Linh Huân",
+    "avatar": "data/134383518_403263254236093_7028811629032638313_n-1609681329541.jpg"
+  },
+  "post_id": null,
+  "type": "request",
+  "seen": false,
+  "user_id": 101,
+  "created_at": {
+    "$date": "2021-01-04T04:52:02.725Z"
+  },
+  "notify_id": 32,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff29f078ca59e3f7881d320"
+  },
+  "info_user": {
+    "user_id": 93,
+    "username": "Phạm Thế Đạt",
+    "avatar": "data/69047056_2392478041000016_1429393359813738496_o-1609681280308.jpg"
+  },
+  "post_id": null,
+  "type": "request",
+  "seen": false,
+  "user_id": 101,
+  "created_at": {
+    "$date": "2021-01-04T04:52:23.743Z"
+  },
+  "notify_id": 33,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff29f1c8ca59e3f7881d322"
+  },
+  "info_user": {
+    "user_id": 92,
+    "username": "Trinh",
+    "avatar": "data/72430798_971611989858139_8264209804189237248_n-1609681204248.jpg"
+  },
+  "post_id": null,
+  "type": "request",
+  "seen": false,
+  "user_id": 101,
+  "created_at": {
+    "$date": "2021-01-04T04:52:44.499Z"
+  },
+  "notify_id": 34,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff29f2d8ca59e3f7881d324"
+  },
+  "info_user": {
+    "user_id": 91,
+    "username": "Tô Khánh Xuân",
+    "avatar": "data/123137035_1331926360477773_2279637507143073762_o-1609681135968.jpg"
+  },
+  "post_id": null,
+  "type": "request",
+  "seen": false,
+  "user_id": 101,
+  "created_at": {
+    "$date": "2021-01-04T04:53:01.673Z"
+  },
+  "notify_id": 35,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff29f3e8ca59e3f7881d326"
+  },
+  "info_user": {
+    "user_id": 90,
+    "username": "Quân Nguyễn",
+    "avatar": "data/119066034_1655640547931968_587126025798583843_n-1609681076963.jpg"
+  },
+  "post_id": null,
+  "type": "request",
+  "seen": false,
+  "user_id": 101,
+  "created_at": {
+    "$date": "2021-01-04T04:53:18.102Z"
+  },
+  "notify_id": 36,
+  "__v": 0
+}]
